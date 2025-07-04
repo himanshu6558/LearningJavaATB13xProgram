@@ -1,0 +1,1 @@
+This is not achievable using inheritance. we can do this by interface.
